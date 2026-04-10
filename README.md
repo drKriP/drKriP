@@ -2,9 +2,9 @@
 
 # 👋 Hey there, I'm **drKriP**
 
-### 🚀 Full-Stack Developer · API Engineer · Automation Enthusiast · CV Explorer
+### 🚀 Full-Stack Developer · API Engineer · Automation Enthusiast · Cyber Security Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Building+powerful+APIs+%F0%9F%94%A7;Automating+everything+I+can+%F0%9F%A4%96;Exploring+Computer+Vision+%F0%9F%91%81;Learning+Go+%26+expanding+horizons+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&lines=Building+powerful+APIs+%F0%9F%94%A7;Automating+everything+I+can+%F0%9F%A4%96;Exploring+Computer+Vision+%F0%9F%91%81;Securing+Systems+%26+Expanding+horizons+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,10 +13,10 @@
 ## 🙋‍♂️ About Me
 
 - 👋 Hi, I'm **drKriP** — a passionate developer who loves building things that work, scale, and automate.
-- 👀 I'm deeply interested in **API development**, **automation**, **object detection**, **web development**, and **computer vision**.
+- 👀 I'm deeply interested in **API development**, **automation**, **object detection**, **web development**, and **cyber security**.
 - 🌱 Currently leveling up in **Go (Golang)**, advanced **automation pipelines**, and **full-stack app/web development**.
 - 💞️ Looking to collaborate on projects around **automation**, **machine learning**, and **API engineering**.
-- 📫 Reach me via [GitHub Issues](https://github.com/drKriP/drKriP/issues) or 📧 **salamplinth@luwang.site**
+- 📫 Reach me via [GitHub Issues](https://github.com/drKriP/drKriP/issues) or 📧 [me@plinthluwang.in](mailto:me@plinthluwang.in)
 - ⚡ Fun fact: I automate things so I can spend more time automating more things.
 
 ---
@@ -29,10 +29,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 🌐 Web & API Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -44,6 +48,9 @@
 
 ### ⚙️ DevOps & Automation
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2496ED?style=for-the-badge&logo=jenkins&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-2496ED?style=for-the-badge&logo=n8n&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -52,22 +59,24 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-47A248?style=for-the-badge&logo=dynamodb&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity & Community
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=drKriP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="drKriP's GitHub Stats" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drKriP&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+| 🚀 **Quick Stats** | ⚡ **Technical Focus** |
+| :--- | :--- |
+| 🧪 **Role:** Full-Stack Dev & Security | 🐹 **Primary:** Go / Python |
+| 🎯 **Ambition:** Automation / CV | 🛡️ **Shields Up:** Cyber Security |
+| 🌟 **Portfolio:** [Visit Now](https://github.com/drKriP) | 🌐 **Stacks:** Next.js / Node.js |
 
-</div>
+<br/>
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=drKriP&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=drKriP&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -80,7 +89,7 @@
 | 🔧 **APIs** | Building scalable, well-documented REST APIs |
 | 🤖 **Automation** | Creating scripts and pipelines to automate repetitive tasks |
 | 👁️ **Computer Vision** | Object detection and image processing with OpenCV & YOLO |
-| 🌱 **Go** | Deepening expertise in Go for high-performance services |
+| 🔐 **Cyber Security** | Deepening expertise in Cyber Security |
 | 🌐 **Full-Stack** | End-to-end application development |
 
 ---
@@ -90,7 +99,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-drKriP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drKriP)
-[![Email](https://img.shields.io/badge/Email-salamplinth%40luwang.site-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salamplinth@luwang.site)
+[![Email](https://img.shields.io/badge/Email-me%40plinthluwang.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@plinthluwang.in)
 
 </div>
 
